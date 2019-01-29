@@ -21,4 +21,4 @@ activate kerasEnv
 (kerasEnv) set "KERAS_BACKEND=cntk"
 (kerasEnv) python baseline.py -config /path/to/configFile
 ```
-NOTE: All above Instructions are tested on WINDOWS machines. 
+**NOTE: All above Instructions are tested on WINDOWS machines.**
